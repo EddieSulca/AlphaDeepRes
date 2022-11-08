@@ -1,0 +1,27 @@
+Hydration [g/g] 0.369
+
+
+PF11768_Q8C456_rank_1 models selected: 1
+
+Checking the pdb structure for model 1
+
+Loaded pdb file : ok
+
+
+Summary information for model 1:
+Number of disulfide bonds        : 0
+Number of free SH                : 15
+Calculation done at pH           : 7.00
+Molecular weight                 : 81709.5 [Da]
+Molar volume                     : 60625.4 [cm^3/mol] @ 20°C
+Vbar calculated                  : 0.742 [cm^3/g] @ 20°C
+Vbar used                        : 0.742 [cm^3/g] @ 20°C
+SAXS excluded volume (anhydrous) : 103353 [A^3]
+Anh. Molecular vol. (from vbar)  : 100676 [A^3] @ 20°C
+Hyd. Molecular vol. (from vbar)  : 141002 [A^3] @ 20°C
+Radius of gyration               : 33.43 [A]
+Number of electrons              : 43747
+Number of protons                : 43730.7
+Net charge                       : -16.3
+Isoelectric point                : 5.36
+Average electron density         : 0.423 [A^-3]

@@ -1,0 +1,27 @@
+Hydration [g/g] 0.43
+
+
+PF02184_P87312_frag models selected: 1
+
+Checking the pdb structure for model 1
+
+Loaded pdb file : ok
+
+
+Summary information for model 1:
+Number of disulfide bonds        : 0
+Number of free SH                : 0
+Calculation done at pH           : 7.00
+Molecular weight                 : 4054.49 [Da]
+Molar volume                     : 2919.07 [cm^3/mol] @ 20°C
+Vbar calculated                  : 0.720 [cm^3/g] @ 20°C
+Vbar used                        : 0.720 [cm^3/g] @ 20°C
+SAXS excluded volume (anhydrous) : 5037.65 [A^3]
+Anh. Molecular vol. (from vbar)  : 4847.5 [A^3] @ 20°C
+Hyd. Molecular vol. (from vbar)  : 7178.42 [A^3] @ 20°C
+Radius of gyration               : 9.48 [A]
+Number of electrons              : 2165
+Number of protons                : 2163.4
+Net charge                       : -1.6
+Isoelectric point                : 5.69
+Average electron density         : 0.430 [A^-3]

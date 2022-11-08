@@ -1,0 +1,3 @@
+ID,Start,End,Repeat length,Repeat number,MSA,Finder,Tally2,p-value-phylo,Psim,Entropy,Parsimony
+protein_0,344,414,28,3,QAELR---PSLISCHPSGAILLV--GSN QGELQ---IFDIALSPINIQLLAEDYSP KETLQFKKFFDVSSSLVQMQWMA-----,TRUST,0.503,1.0,0.58,0.24,0.62
+protein_0,669,683,1,15,T E E E E E E E E E E E E E L,selectseq,0.917,0.0,0.87,0.16,0.14
